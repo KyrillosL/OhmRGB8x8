@@ -7,9 +7,9 @@ It has been cleared so there is no encoders and fader assigned but you can still
 
 
 # Instructions  
-[MAC] All the files need to be placed to the Live's MIDI Remote Scripts : https://help.ableton.com/hc/en-us/articles/209072009-Installing-Third-Party-Control-Surfaces
-Download and install the scripts from the Amounra's repository : https://github.com/aumhaa/m4m8
-Download this one and replace the Livid_OhmModes_v2 folder. 
+- [MAC] All the files need to be placed to the Live's MIDI Remote Scripts : https://help.ableton.com/hc/en-us/articles/209072009-Installing-Third-Party-Control-Surfaces
+- Download and install the scripts from the Amounra's repository : https://github.com/aumhaa/m4m8
+- Download this one and replace the Livid_OhmModes_v2 folder. 
 
 # Version
 The script is available for Live 10.0.X and 10.1. You'll need to switch the branch to your version. 
